@@ -1,0 +1,11 @@
+# Credenciales: NUNCA subir el .env real
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS
+.DS_Store

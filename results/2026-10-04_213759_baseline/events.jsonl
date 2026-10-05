@@ -1,0 +1,120 @@
+{"t": 0.021, "event": "request", "item": "T001", "attempt": 1, "in_flight": 1}
+{"t": 0.039, "event": "request", "item": "T002", "attempt": 1, "in_flight": 2}
+{"t": 0.039, "event": "request", "item": "T003", "attempt": 1, "in_flight": 3}
+{"t": 0.039, "event": "request", "item": "T004", "attempt": 1, "in_flight": 4}
+{"t": 0.039, "event": "request", "item": "T005", "attempt": 1, "in_flight": 5}
+{"t": 0.04, "event": "request", "item": "T006", "attempt": 1, "in_flight": 6}
+{"t": 0.04, "event": "request", "item": "T007", "attempt": 1, "in_flight": 7}
+{"t": 0.04, "event": "request", "item": "T008", "attempt": 1, "in_flight": 8}
+{"t": 0.04, "event": "request", "item": "T009", "attempt": 1, "in_flight": 9}
+{"t": 0.04, "event": "request", "item": "T010", "attempt": 1, "in_flight": 10}
+{"t": 0.04, "event": "request", "item": "T011", "attempt": 1, "in_flight": 11}
+{"t": 0.041, "event": "request", "item": "T012", "attempt": 1, "in_flight": 12}
+{"t": 0.041, "event": "request", "item": "T013", "attempt": 1, "in_flight": 13}
+{"t": 0.041, "event": "request", "item": "T014", "attempt": 1, "in_flight": 14}
+{"t": 0.041, "event": "request", "item": "T015", "attempt": 1, "in_flight": 15}
+{"t": 0.041, "event": "request", "item": "T016", "attempt": 1, "in_flight": 16}
+{"t": 0.041, "event": "request", "item": "T017", "attempt": 1, "in_flight": 17}
+{"t": 0.042, "event": "request", "item": "T018", "attempt": 1, "in_flight": 18}
+{"t": 0.042, "event": "request", "item": "T019", "attempt": 1, "in_flight": 19}
+{"t": 0.042, "event": "request", "item": "T020", "attempt": 1, "in_flight": 20}
+{"t": 0.042, "event": "request", "item": "T021", "attempt": 1, "in_flight": 21}
+{"t": 0.042, "event": "request", "item": "T022", "attempt": 1, "in_flight": 22}
+{"t": 0.042, "event": "request", "item": "T023", "attempt": 1, "in_flight": 23}
+{"t": 0.043, "event": "request", "item": "T024", "attempt": 1, "in_flight": 24}
+{"t": 0.043, "event": "request", "item": "T025", "attempt": 1, "in_flight": 25}
+{"t": 0.043, "event": "request", "item": "T026", "attempt": 1, "in_flight": 26}
+{"t": 0.043, "event": "request", "item": "T027", "attempt": 1, "in_flight": 27}
+{"t": 0.043, "event": "request", "item": "T028", "attempt": 1, "in_flight": 28}
+{"t": 0.043, "event": "request", "item": "T029", "attempt": 1, "in_flight": 29}
+{"t": 0.044, "event": "request", "item": "T030", "attempt": 1, "in_flight": 30}
+{"t": 0.044, "event": "request", "item": "T031", "attempt": 1, "in_flight": 31}
+{"t": 0.044, "event": "request", "item": "T032", "attempt": 1, "in_flight": 32}
+{"t": 0.044, "event": "request", "item": "T033", "attempt": 1, "in_flight": 33}
+{"t": 0.044, "event": "request", "item": "T034", "attempt": 1, "in_flight": 34}
+{"t": 0.044, "event": "request", "item": "T035", "attempt": 1, "in_flight": 35}
+{"t": 0.045, "event": "request", "item": "T036", "attempt": 1, "in_flight": 36}
+{"t": 0.045, "event": "request", "item": "T037", "attempt": 1, "in_flight": 37}
+{"t": 0.045, "event": "request", "item": "T038", "attempt": 1, "in_flight": 38}
+{"t": 0.045, "event": "request", "item": "T039", "attempt": 1, "in_flight": 39}
+{"t": 0.045, "event": "request", "item": "T040", "attempt": 1, "in_flight": 40}
+{"t": 0.046, "event": "request", "item": "T041", "attempt": 1, "in_flight": 41}
+{"t": 0.046, "event": "request", "item": "T042", "attempt": 1, "in_flight": 42}
+{"t": 0.046, "event": "request", "item": "T043", "attempt": 1, "in_flight": 43}
+{"t": 0.046, "event": "request", "item": "T044", "attempt": 1, "in_flight": 44}
+{"t": 0.046, "event": "request", "item": "T045", "attempt": 1, "in_flight": 45}
+{"t": 0.046, "event": "request", "item": "T046", "attempt": 1, "in_flight": 46}
+{"t": 0.047, "event": "request", "item": "T047", "attempt": 1, "in_flight": 47}
+{"t": 0.047, "event": "request", "item": "T048", "attempt": 1, "in_flight": 48}
+{"t": 0.047, "event": "request", "item": "T049", "attempt": 1, "in_flight": 49}
+{"t": 0.047, "event": "request", "item": "T050", "attempt": 1, "in_flight": 50}
+{"t": 0.047, "event": "request", "item": "T051", "attempt": 1, "in_flight": 51}
+{"t": 0.047, "event": "request", "item": "T052", "attempt": 1, "in_flight": 52}
+{"t": 0.048, "event": "request", "item": "T053", "attempt": 1, "in_flight": 53}
+{"t": 0.048, "event": "request", "item": "T054", "attempt": 1, "in_flight": 54}
+{"t": 0.048, "event": "request", "item": "T055", "attempt": 1, "in_flight": 55}
+{"t": 0.048, "event": "request", "item": "T056", "attempt": 1, "in_flight": 56}
+{"t": 0.048, "event": "request", "item": "T057", "attempt": 1, "in_flight": 57}
+{"t": 0.048, "event": "request", "item": "T058", "attempt": 1, "in_flight": 58}
+{"t": 0.049, "event": "request", "item": "T059", "attempt": 1, "in_flight": 59}
+{"t": 0.049, "event": "request", "item": "T060", "attempt": 1, "in_flight": 60}
+{"t": 0.373, "event": "error", "item": "T022", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 298.835029ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.377, "event": "error", "item": "T043", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 290.46604ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n  "}
+{"t": 0.378, "event": "error", "item": "T020", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 290.375105ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.381, "event": "error", "item": "T027", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 293.11708ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n  "}
+{"t": 0.382, "event": "error", "item": "T033", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 289.884946ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.382, "event": "error", "item": "T004", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 289.751847ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.383, "event": "error", "item": "T025", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 290.448243ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.385, "event": "error", "item": "T028", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 290.558958ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.386, "event": "error", "item": "T016", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 290.110295ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.386, "event": "error", "item": "T019", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 289.816893ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.39, "event": "error", "item": "T011", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 290.111444ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.391, "event": "error", "item": "T034", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 287.433676ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.392, "event": "error", "item": "T057", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 287.62437ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n  "}
+{"t": 0.393, "event": "error", "item": "T032", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 287.946697ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.395, "event": "error", "item": "T049", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 281.034911ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.396, "event": "error", "item": "T056", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 279.459468ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.398, "event": "error", "item": "T060", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 271.979726ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.399, "event": "error", "item": "T058", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 270.198198ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.401, "event": "error", "item": "T045", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 268.794237ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.407, "event": "error", "item": "T053", "attempt": 1, "type": "RateLimitError", "retry_after": 0.0, "detail": "{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.5-flash-lite\\nPlease retry in 262.192091ms.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n "}
+{"t": 0.693, "event": "response", "item": "T012", "attempt": 1, "latency": 0.653, "input_tokens": 299, "output_tokens": 37, "cost_usd": 0.00018219999999999998}
+{"t": 0.762, "event": "response", "item": "T039", "attempt": 1, "latency": 0.717, "input_tokens": 305, "output_tokens": 39, "cost_usd": 0.000189}
+{"t": 0.824, "event": "response", "item": "T005", "attempt": 1, "latency": 0.784, "input_tokens": 302, "output_tokens": 36, "cost_usd": 0.0001806}
+{"t": 0.864, "event": "response", "item": "T047", "attempt": 1, "latency": 0.818, "input_tokens": 303, "output_tokens": 29, "cost_usd": 0.0001634}
+{"t": 0.866, "event": "response", "item": "T031", "attempt": 1, "latency": 0.822, "input_tokens": 303, "output_tokens": 37, "cost_usd": 0.00018339999999999999}
+{"t": 0.889, "event": "response", "item": "T013", "attempt": 1, "latency": 0.848, "input_tokens": 304, "output_tokens": 36, "cost_usd": 0.00018119999999999999}
+{"t": 0.907, "event": "response", "item": "T050", "attempt": 1, "latency": 0.86, "input_tokens": 303, "output_tokens": 33, "cost_usd": 0.00017339999999999999}
+{"t": 0.909, "event": "response", "item": "T038", "attempt": 1, "latency": 0.864, "input_tokens": 300, "output_tokens": 34, "cost_usd": 0.000175}
+{"t": 0.911, "event": "response", "item": "T014", "attempt": 1, "latency": 0.87, "input_tokens": 298, "output_tokens": 37, "cost_usd": 0.00018189999999999998}
+{"t": 0.914, "event": "response", "item": "T006", "attempt": 1, "latency": 0.874, "input_tokens": 307, "output_tokens": 35, "cost_usd": 0.0001796}
+{"t": 0.925, "event": "response", "item": "T021", "attempt": 1, "latency": 0.883, "input_tokens": 301, "output_tokens": 35, "cost_usd": 0.0001778}
+{"t": 0.94, "event": "response", "item": "T023", "attempt": 1, "latency": 0.898, "input_tokens": 301, "output_tokens": 37, "cost_usd": 0.0001828}
+{"t": 0.958, "event": "response", "item": "T041", "attempt": 1, "latency": 0.913, "input_tokens": 299, "output_tokens": 36, "cost_usd": 0.00017969999999999998}
+{"t": 0.96, "event": "response", "item": "T008", "attempt": 1, "latency": 0.92, "input_tokens": 307, "output_tokens": 37, "cost_usd": 0.0001846}
+{"t": 0.964, "event": "response", "item": "T036", "attempt": 1, "latency": 0.92, "input_tokens": 303, "output_tokens": 36, "cost_usd": 0.00018089999999999998}
+{"t": 0.966, "event": "response", "item": "T007", "attempt": 1, "latency": 0.926, "input_tokens": 303, "output_tokens": 38, "cost_usd": 0.00018589999999999997}
+{"t": 0.969, "event": "response", "item": "T029", "attempt": 1, "latency": 0.926, "input_tokens": 296, "output_tokens": 39, "cost_usd": 0.0001863}
+{"t": 0.97, "event": "response", "item": "T026", "attempt": 1, "latency": 0.928, "input_tokens": 295, "output_tokens": 36, "cost_usd": 0.0001785}
+{"t": 0.972, "event": "response", "item": "T030", "attempt": 1, "latency": 0.928, "input_tokens": 306, "output_tokens": 38, "cost_usd": 0.00018680000000000001}
+{"t": 0.975, "event": "response", "item": "T003", "attempt": 1, "latency": 0.936, "input_tokens": 297, "output_tokens": 35, "cost_usd": 0.00017659999999999998}
+{"t": 0.976, "event": "response", "item": "T024", "attempt": 1, "latency": 0.933, "input_tokens": 299, "output_tokens": 35, "cost_usd": 0.0001772}
+{"t": 0.977, "event": "response", "item": "T035", "attempt": 1, "latency": 0.933, "input_tokens": 304, "output_tokens": 38, "cost_usd": 0.0001862}
+{"t": 0.99, "event": "response", "item": "T040", "attempt": 1, "latency": 0.944, "input_tokens": 301, "output_tokens": 35, "cost_usd": 0.0001778}
+{"t": 0.992, "event": "response", "item": "T009", "attempt": 1, "latency": 0.952, "input_tokens": 299, "output_tokens": 33, "cost_usd": 0.00017219999999999998}
+{"t": 1.007, "event": "response", "item": "T051", "attempt": 1, "latency": 0.959, "input_tokens": 307, "output_tokens": 22, "cost_usd": 0.0001471}
+{"t": 1.008, "event": "response", "item": "T042", "attempt": 1, "latency": 0.962, "input_tokens": 293, "output_tokens": 29, "cost_usd": 0.00016039999999999997}
+{"t": 1.012, "event": "response", "item": "T017", "attempt": 1, "latency": 0.97, "input_tokens": 294, "output_tokens": 26, "cost_usd": 0.00015319999999999998}
+{"t": 1.013, "event": "response", "item": "T010", "attempt": 1, "latency": 0.973, "input_tokens": 302, "output_tokens": 36, "cost_usd": 0.0001806}
+{"t": 1.015, "event": "response", "item": "T037", "attempt": 1, "latency": 0.97, "input_tokens": 297, "output_tokens": 34, "cost_usd": 0.0001741}
+{"t": 1.016, "event": "response", "item": "T046", "attempt": 1, "latency": 0.969, "input_tokens": 294, "output_tokens": 37, "cost_usd": 0.0001807}
+{"t": 1.018, "event": "response", "item": "T055", "attempt": 1, "latency": 0.97, "input_tokens": 299, "output_tokens": 35, "cost_usd": 0.0001772}
+{"t": 1.039, "event": "response", "item": "T048", "attempt": 1, "latency": 0.992, "input_tokens": 296, "output_tokens": 36, "cost_usd": 0.0001788}
+{"t": 1.042, "event": "response", "item": "T044", "attempt": 1, "latency": 0.995, "input_tokens": 300, "output_tokens": 33, "cost_usd": 0.0001725}
+{"t": 1.044, "event": "response", "item": "T052", "attempt": 1, "latency": 0.996, "input_tokens": 291, "output_tokens": 37, "cost_usd": 0.0001798}
+{"t": 1.089, "event": "response", "item": "T002", "attempt": 1, "latency": 1.05, "input_tokens": 297, "output_tokens": 38, "cost_usd": 0.0001841}
+{"t": 1.091, "event": "response", "item": "T059", "attempt": 1, "latency": 1.042, "input_tokens": 304, "output_tokens": 36, "cost_usd": 0.00018119999999999999}
+{"t": 1.098, "event": "response", "item": "T054", "attempt": 1, "latency": 1.05, "input_tokens": 296, "output_tokens": 36, "cost_usd": 0.0001788}
+{"t": 1.136, "event": "response", "item": "T001", "attempt": 1, "latency": 1.115, "input_tokens": 307, "output_tokens": 37, "cost_usd": 0.0001846}
+{"t": 1.171, "event": "response", "item": "T015", "attempt": 1, "latency": 1.13, "input_tokens": 309, "output_tokens": 37, "cost_usd": 0.00018519999999999998}
+{"t": 1.212, "event": "response", "item": "T018", "attempt": 1, "latency": 1.171, "input_tokens": 308, "output_tokens": 38, "cost_usd": 0.00018739999999999997}
